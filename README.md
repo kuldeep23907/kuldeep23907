@@ -6,7 +6,7 @@ I am [Kuldeep](https://www.linkedin.com/in/kuldeep-k-srivastava-b27806138/), a b
 
 I mostly work on BUIDLING Dapps on blockchain platforms such as Ethereum, Tezos. I have worked on coding Smart Contracts, leveraging Oracles (chainlink, tellor), deploying & upgrading contracts(truffle, proxy, registry) and designing user interface using React with web3.js/ethers. I also write unit testing using mocha(javascript) & solidity, do security analysis and perform dynamic testing using MythX.
 
-I keep participating in hackathins such as [ETHonline 2020 (won OpenGSN Most meaningful project award)](https://hack.ethglobal.co/showcase/machu-picchu-recM0wStoyOcitI1A), [Chainlink Virtual Hackathon 2020(wno Tezos Defi Runner Up award)](https://devpost.com/software/bifrost-baking-token), P&G Sponsored hackathon( Finalist here) and several others. The purpose has been to explore something new in the domain and implement what i know to enhance my blockchain experience. 
+I keep participating in hackathons such as [ETHonline 2020 (won OpenGSN Most meaningful project award)](https://hack.ethglobal.co/showcase/machu-picchu-recM0wStoyOcitI1A), [Chainlink Virtual Hackathon 2020(wno Tezos Defi Runner Up award)](https://devpost.com/software/bifrost-baking-token), P&G Sponsored hackathon( Finalist here) and several others. The purpose has been to explore something new in the domain and implement what i know to enhance my blockchain experience. 
 
 I am currently employed as Full Stack developer and keep working on awesome projects to make ideas into reality. I have worked on back-end, front-end as well as cloud services AWS in these projects.
 
