@@ -43,7 +43,7 @@ I worked with multiple international clients and in multiple distributed but tig
     <img src="https://raw.githubusercontent.com/kuldeep23907/kuldeep23907/master/assets/tezos.png"  height="75" />
   </a>
    <a href="https://www.smartpy.io" target="_blank" >
-    <img src="https://raw.githubusercontent.com/kuldeep23907/kuldeep23907/master/assets/smartpy.png"  height="75" />
+    <img src="https://raw.githubusercontent.com/kuldeep23907/kuldeep23907/master/assets/smartpy.svg"  height="75" />
   </a>
  </p>
   
