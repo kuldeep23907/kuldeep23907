@@ -14,7 +14,7 @@ I am currently employed as Full Stack developer and keep working on awesome proj
 
 <p float="left">
   <a href="https://ethereum.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/kuldeep23907/kuldeep23907/master/assets/ethereum.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/kuldeep23907/kuldeep23907/master/assets/ethereum.png.png"  height="75" />
   </a>
   <a href="https://solidity.readthedocs.io/en/v0.7.4/" target="_blank" >
     <img src="https://raw.githubusercontent.com/kuldeep23907/kuldeep23907/master/assets/solidity.png"  height="75" /> 
@@ -90,5 +90,5 @@ I am currently employed as Full Stack developer and keep working on awesome proj
 ### 📫 How to reach me? 
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/kuldeep-k-srivastava-b27806138/) 👨🏻‍💻 <br>
-  ⦿ Email me [Email](mailto:kk23907.me@gmail.com) <br>
+  ⦿ Email me [here](mailto:kk23907.me@gmail.com) <br>
 
