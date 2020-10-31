@@ -70,7 +70,7 @@ I worked with multiple international clients and in multiple distributed but tig
   </a>
 
    <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/kuldeep23907/kuldeep23907/master/assets/html-css-js.png" height="70" />
+    <img src="https://raw.githubusercontent.com/kuldeep23907/kuldeep23907/master/assets/javascripthtmlcss.webp" height="70" />
   </a>
 
    <a href="https://aws.amazon.com/" target="_blank" >
