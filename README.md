@@ -8,7 +8,7 @@ I mostly work on BUIDLING Dapps on blockchain platforms such as **Ethereum, Bina
 
 I keep participating & won prize in hackathons such as **[ETHGlobal HackFS S2021 (Finalist & Protocol Labs Grand Prize winnner, Sponsors award)](https://showcase.ethglobal.co/hackfs2021/cryptoshooters), [ETHGlobal Scaling Ethereum S2021 (won Arbitrum award)](https://showcase.ethglobal.co/scaling/farmtopia),  [ETHGlobal HackMoney S2021 (won sponsors award)](https://showcase.ethglobal.co/hackmoney2021/fun-dpool), [ETHGlobal Web3 Weekend S2021 (won sponsors award)](https://showcase.ethglobal.co/web3weekend/one-momint), [ETHonline 2020 (won OpenGSN Most meaningful project award)](https://hack.ethglobal.co/showcase/machu-picchu-recM0wStoyOcitI1A), [Chainlink Virtual Hackathon 2020(won Tezos Defi Runner Up award)](https://devpost.com/software/bifrost-baking-token), P&G Sponsored hackathon( Finalist here)** and several others. The purpose has been to explore something new in the domain and implement what i know to enhance my blockchain experience. 
 
-I am currently employed as Full Stack developer and keep working on awesome projects to make ideas into reality. I have worked on back-end, front-end as well as cloud services AWS in these projects.
+I am currently employed as Blockchain Developer and keep working on awesome projects to make ideas into reality. I have worked on back-end, front-end as well as cloud services AWS in these projects.
 
 ## Skills
 
