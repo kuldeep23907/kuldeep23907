@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am [Kuldeep](https://www.linkedin.com/in/kuldeep-k-srivastava-b27806138/), a blockchain enthusiast and full stack software developer from [🇮🇳](https://en.wikipedia.org/wiki/India)&nbsp; with love for problem-solving. 🎯 
+I am [Kuldeep](https://www.linkedin.com/in/kuldeep-k-srivastava-b27806138/), a blockchain developer and full stack software developer from [🇮🇳](https://en.wikipedia.org/wiki/India)&nbsp; with love for problem-solving. 🎯 
 
 ![Kuldeeps's github stats](https://github-readme-stats.vercel.app/api?username=kuldeep23907&hide=issues&show_icons=true&theme=onedark)
 
