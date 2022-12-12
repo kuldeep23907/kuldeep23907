@@ -8,16 +8,11 @@ I have 3+ years of experience in blockchain development & full stack software de
 
 #### Professional Skills and Interests:
 **• Experience with EVM & non-EVM chains
- 
-• DeFi protocols, Tokens and NFT market 
-
-• Layer 2 and scalability solutions
-
-• Designing & Coding Smart Contracts 
-
-• DApp design, development & testing 
-
-• R&D, DAOs & Hackathons enthusiast**
+  • DeFi protocols, Tokens and NFT market 
+  • Layer 2 and scalability solutions
+  • Designing & Coding Smart Contracts 
+  • DApp design, development & testing 
+  • R&D, DAOs & Hackathons enthusiast**
 
 
 <!-- I mostly work on BUIDLING Dapps on blockchain platforms such as **Ethereum, Binance Smart Chain, Polygon**. I have worked on coding Smart Contracts, leveraging Oracles (**chainlink**), deploying & upgrading contracts(**truffle, hardhart**), security libraries(**openzeppelin**) and designing user interface using React with **web3.js/ethers**. I also write unit testing using **mocha(javascript) & solidity**, do security analysis and perform dynamic testing using **MythX**.
