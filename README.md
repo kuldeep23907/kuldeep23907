@@ -8,20 +8,18 @@ I am [Kuldeep](https://www.linkedin.com/in/kuldeep-k-srivastava-b27806138/), a b
 
 I have 3+ years of experience in blockchain development & full stack software development. An adaptable professional who explores various blockchain platforms, architect smart contract systems, loves coding & reviewing smart contracts and enjoys problem-solving. 
 
-<!-- ## Professional Skills and Interests:
-  • Experience with EVM & non-EVM chains
-  • DeFi protocols, Tokens and NFT market 
-  • Layer 2 and scalability solutions
-  • Designing & Coding Smart Contracts 
-  • DApp design, development & testing 
-  • R&D, DAOs & Hackathons enthusiast -->
+## Professional Skills and Interests:
+* Experience with EVM & non-EVM chains
+* DeFi protocols, Tokens and NFT market 
+* Layer 2 and scalability solutions
+* Designing & Coding Smart Contracts 
+* DApp design, development & testing 
+* R&D, DAOs & Hackathons enthusiast
 
 # Work Experience
 
 ## Blockchain Work Experience
 
-### [yAcademy](https://twitter.com/yAcademyDAO) - Security Research Fellow (Nov 2022 - Dec 2022)
-* Skills: Solidity, Smart Contracts, Auditing
 ### [ConsenSys](https://github.com/ConsenSys) - Blockchain/Solidity Developer (Jan 2022 - Nov 2022)
 * Skills: Solidity, Smart Contract Development, Testing, Fuzzing, Deployment, DeFi, NFTs
 ### [Multiplier Finance](https://twitter.com/MultiplierMXX) - Blockchain Developer (Feb 2021 - December 2021)
@@ -35,6 +33,17 @@ I have 3+ years of experience in blockchain development & full stack software de
 ### [Geekyants](https://www.geekyants.com/) - Software Engineer (July 2019 - Feb 2021)
 * Skills: JavaScript, React, React Native, Node.js, PHP, AWS, MERN stack
 
+# Achievements
+
+* Got selected under Security Research Fellowship program by [yAcademy](https://twitter.com/yAcademyDAO) block IV
+* Awarded with 12000 USDC as Certora Scholarship for being Top 9 in [Secureum X Certora Prover (formal verification) workshop](https://discord.com/channels/814328279468474419/927065287172427798/963042285363290112)
+* Ranked 16th out of 32 participants and shared 20000$ pool prize in [Secureum X Sherlock CTF](https://discord.com/channels/814328279468474419/927065287172427798/948437423732437002)
+* Completed a week workshop from Trail of bits team on Echidna (fuzzing) tool organised by [Secureum X ToB](https://discord.com/channels/814328279468474419/927065287172427798/975221344885145620)
+* Ranked 5th out of 98 participants in [Secureum RACE-12](https://discord.com/channels/814328279468474419/927065287172427798/1049907696603774986) 
+* Ranked 24th out of 60 participants in [Secureum RACE-8](https://discord.com/channels/814328279468474419/927065287172427798/1004355015646916709)
+* Ranked 27th out of 128 participants in [Secureum RACE-6](https://discord.com/channels/814328279468474419/927065287172427798/976454214312140850)
+* Ranked 17th out of 94 participants in [Secureum Certora CARE-X](https://discord.com/channels/814328279468474419/927065287172427798/943321125465755728)
+* Ranked 23rd out of 125 participants in [Secureum RACE-4](https://discord.com/channels/814328279468474419/927065287172427798/940515560318447688)
 
 <!-- I mostly work on BUIDLING Dapps on blockchain platforms such as **Ethereum, Binance Smart Chain, Polygon**. I have worked on coding Smart Contracts, leveraging Oracles (**chainlink**), deploying & upgrading contracts(**truffle, hardhart**), security libraries(**openzeppelin**) and designing user interface using React with **web3.js/ethers**. I also write unit testing using **mocha(javascript) & solidity**, do security analysis and perform dynamic testing using **MythX**.
 
