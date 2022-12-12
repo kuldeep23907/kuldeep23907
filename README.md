@@ -6,25 +6,30 @@ I am [Kuldeep](https://www.linkedin.com/in/kuldeep-k-srivastava-b27806138/), a b
 
 I have 3+ years of experience in blockchain development & full stack software development. An adaptable professional who explores various blockchain platforms, architect smart contract systems, loves coding & reviewing smart contracts and enjoys problem-solving. 
 
-#### Professional Skills and Interests:
-• Experience with EVM & non-EVM chains
+### Professional Skills and Interests:
+  • Experience with EVM & non-EVM chains
   • DeFi protocols, Tokens and NFT market 
   • Layer 2 and scalability solutions
   • Designing & Coding Smart Contracts 
   • DApp design, development & testing 
   • R&D, DAOs & Hackathons enthusiast
 
-### Web3 Work experience
+### Blockchain Work Experience
 
 #### Security Research Fellow @yAcademy (Nov 2022 - Dec 2022)
+* Skills: Solidity, Smart Contracts, Auditing
 #### ConsenSys - Blockchain/Solidity Developer (Jan 2022 - Nov 2022)
+* Skills: Solidity, Smart Contract Development, Testing, Fuzzing, JavaScript
 #### Multiplier Finance - Blockchain Developer (Feb 2021 - December 2021)
+* Skills: Solidity, Smart Contract Development, Testing, Fuzzing
 #### ConsenSys Academy - Blockchain Developer Trainee (Sept 2020 - December 2020)
+* Skills: Ethereum, Solidity, Dapps development
 #### Emurgo Academy - Full-stack Blockchain Developer Trainee (Nov 2019 - August 2020)
+* Skills: Blockchain basics, Ethereum, Dapps, Hyperledger Fabric, Cardano
 
-### Full stack Work experience
+### Full-Stack Work Experience
 #### Geekyants - Software Engineer (July 2019 - Feb 2022)
-
+* Skills: JavaScript, React, React Native, Node.js, PHP, AWS, MERN stack
 
 
 <!-- I mostly work on BUIDLING Dapps on blockchain platforms such as **Ethereum, Binance Smart Chain, Polygon**. I have worked on coding Smart Contracts, leveraging Oracles (**chainlink**), deploying & upgrading contracts(**truffle, hardhart**), security libraries(**openzeppelin**) and designing user interface using React with **web3.js/ethers**. I also write unit testing using **mocha(javascript) & solidity**, do security analysis and perform dynamic testing using **MythX**.
