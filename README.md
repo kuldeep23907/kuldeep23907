@@ -40,7 +40,7 @@ I have 3+ years of experience in blockchain development & full stack software de
 * [ETHGlobal HackMoney S2021 (won sponsors award)](https://showcase.ethglobal.co/hackmoney2021/fun-dpool)
 * [ETHGlobal Web3 Weekend S2021 (won sponsors award)](https://showcase.ethglobal.co/web3weekend/one-momint)
 * [ETHonline 2020 (won OpenGSN Most meaningful project award)](https://hack.ethglobal.co/showcase/machu-picchu-recM0wStoyOcitI1A)
-* [Devfolio InOut 7.0 (won MATIC price-prediction market award)](https://devfolio.co/projects/price-prediction-market)
+* [Devfolio InOut 7.0 2020 (won MATIC price-prediction market award)](https://devfolio.co/projects/price-prediction-market)
 * [Chainlink Virtual Hackathon 2020(won Tezos Defi Runner Up award)](https://devpost.com/software/bifrost-baking-token)
 * and many more...
 
