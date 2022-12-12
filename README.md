@@ -6,7 +6,7 @@ I am [Kuldeep](https://www.linkedin.com/in/kuldeep-k-srivastava-b27806138/), a b
 
 <!-- ![Kuldeeps's github stats](https://github-readme-stats.vercel.app/api?username=kuldeep23907&hide=issues&show_icons=true&theme=onedark) -->
 
-I have 3+ years of experience in blockchain development & full stack software development. An adaptable professional who explores various blockchain platforms, architect smart contract systems, loves coding & reviewing smart contracts and enjoys problem-solving. 
+I have **3+ years** of experience in blockchain development & full stack software development. An adaptable professional who explores various blockchain platforms, architect smart contract systems, loves coding & reviewing smart contracts and enjoys problem-solving. 
 
 ## Professional Skills and Interests:
 * Experience with EVM & non-EVM chains
@@ -34,6 +34,7 @@ I have 3+ years of experience in blockchain development & full stack software de
 * Skills: JavaScript, React, React Native, Node.js, PHP, AWS, MERN stack
 
 ## Hackathons Experience
+* POAP collection [iamkuldeep.eth](https://app.poap.xyz/scan/iamkuldeep.eth)
 * ConsenSys Internal Cypherpunk 2022 Hackathon (won Out-of-the-Box category award)
 * [ETHGlobal HackFS S2021 (Finalist & Protocol Labs Grand Prize winnner, Sponsors award)](https://showcase.ethglobal.co/hackfs2021/cryptoshooters)
 * [ETHGlobal Scaling Ethereum S2021 (won Arbitrum award)](https://showcase.ethglobal.co/scaling/farmtopia)
@@ -44,17 +45,19 @@ I have 3+ years of experience in blockchain development & full stack software de
 * [Chainlink Virtual Hackathon 2020(won Tezos Defi Runner Up award)](https://devpost.com/software/bifrost-baking-token)
 * and many more...
 
+Follow on [LinkedIn](https://www.linkedin.com/in/kuldeep-k-srivastava-b27806138/) to know more about work experience & projects.
+
 # Smart Contract Security
 
-* Got selected for Security Research Fellowship program by [yAcademy](https://twitter.com/yAcademyDAO).Have a look at the repo [block IV](https://github.com/Yacademy-block-4) 
-* Completed CTF wargame Ethernaut for enhancing smart contract security skills (https://ethernaut.openzeppelin.com/)
-* Completed first 6 slots of [secureum epoch 0 material](https://github.com/x676f64/secureum-mind_map)
+* Got selected for **Security Research Fellowship program** by [yAcademy](https://twitter.com/yAcademyDAO).Have a look at the repo [block IV](https://github.com/Yacademy-block-4) 
+* Completed **CTF wargame Ethernaut** for enhancing smart contract security skills (https://ethernaut.openzeppelin.com/)
+* Completed first 6 slots **(Ethereum 101, Solidity 101, Solidity 201, Security Pitfalls & Best Practices 101 & 201, Auditing tools & techniques 101)** of [Secureum epoch 0 material](https://github.com/x676f64/secureum-mind_map)
 
 # Achievements
 
-* Awarded with 12000 USDC as Certora Scholarship for being Top 9 in [Secureum X Certora Prover (formal verification) workshop](https://discord.com/channels/814328279468474419/927065287172427798/963042285363290112)
-* Ranked 16th out of 32 participants and shared 20000$ pool prize in [Secureum X Sherlock CTF](https://discord.com/channels/814328279468474419/927065287172427798/948437423732437002)
-* Completed a week workshop from Trail of bits team on Echidna (fuzzing) tool organised by [Secureum X ToB](https://discord.com/channels/814328279468474419/927065287172427798/975221344885145620)
+* Awarded with 12000 USDC as **Certora Scholarship** for being Top 9 in [Secureum X Certora Prover (formal verification) workshop](https://discord.com/channels/814328279468474419/927065287172427798/963042285363290112)
+* Ranked 16th out of 32 participants in **Sherlock CTF** and shared 20000$ pool prize organised by [Secureum X Sherlock CTF](https://discord.com/channels/814328279468474419/927065287172427798/948437423732437002)
+* Completed a week workshop on **Echidna (fuzzing)** tool organised by [Secureum X Trail of Bits](https://discord.com/channels/814328279468474419/927065287172427798/975221344885145620)
 * Ranked 5th out of 98 participants in [Secureum RACE-12](https://discord.com/channels/814328279468474419/927065287172427798/1049907696603774986) 
 * Ranked 24th out of 60 participants in [Secureum RACE-8](https://discord.com/channels/814328279468474419/927065287172427798/1004355015646916709)
 * Ranked 27th out of 128 participants in [Secureum RACE-6](https://discord.com/channels/814328279468474419/927065287172427798/976454214312140850)
