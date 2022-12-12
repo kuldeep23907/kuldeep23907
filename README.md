@@ -16,9 +16,9 @@ I have 3+ years of experience in blockchain development & full stack software de
   • DApp design, development & testing 
   • R&D, DAOs & Hackathons enthusiast -->
 
-# Work Experiences
+# Work Experience
 
-## Blockchain Work Experiences
+## Blockchain Work Experience
 
 ### Security Research Fellow @yAcademy (Nov 2022 - Dec 2022)
 * Skills: Solidity, Smart Contracts, Auditing
