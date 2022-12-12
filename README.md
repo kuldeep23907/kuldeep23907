@@ -10,7 +10,7 @@ I keep participating & won prize in hackathons such as **[ETHGlobal HackFS S2021
 
 I am currently employed as Blockchain Developer and keep working on awesome projects to make ideas into reality. I have worked on back-end, front-end as well as cloud services AWS in these projects.
 
-## Skills
+<!-- ## Skills
 
 <p float="left">
   <a href="https://ethereum.org/" target="_blank" >
@@ -84,11 +84,14 @@ I am currently employed as Blockchain Developer and keep working on awesome proj
   </a>
 </p>
 
-### Frontend & Backend Skills
+### Frontend & Backend Skills -->
 
 
 ### 📫 How to reach me? 
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/kuldeep-k-srivastava-b27806138/) 👨🏻‍💻 <br>
-  ⦿ Email me [here](mailto:kk23907.me@gmail.com) <br>
+  ⦿ Email me [Kuldeep K Srivastava](mailto:kuldeepksrivastava1@gmail.com) <br>
+  ⦿ Twitter [Kuldeep K Srivastava](https://twitter.com/kd23907) <br>
+  ⦿ Discord [Kuldeep](kuldeep#3336) <br>
+  
 
