@@ -4,15 +4,16 @@ I am [Kuldeep](https://www.linkedin.com/in/kuldeep-k-srivastava-b27806138/), a b
 
 <!-- ![Kuldeeps's github stats](https://github-readme-stats.vercel.app/api?username=kuldeep23907&hide=issues&show_icons=true&theme=onedark) -->
 
-I have 3+ years of experience in blockchain development & full stack soYware development. An adaptable professional who explores various blockchain platforms, architect smart contract systems, loves coding & reviewing smart contracts and enjoys problem-solving. 
-Professional Skills and Interests:
+I have 3+ years of experience in blockchain development & full stack software development. An adaptable professional who explores various blockchain platforms, architect smart contract systems, loves coding & reviewing smart contracts and enjoys problem-solving. 
 
-• Experience with EVM & non-EVM chains 
-• DeFi protocols, Tokens and NFT market 
-• Layer 2 and scalability soluMons
-• Designing & Coding Smart Contracts 
-• DApp design, development & tesMng 
-• R&D, DAOs & Hackathons enthusiast
+### Professional Skills and Interests:
+
+#### • Experience with EVM & non-EVM chains 
+#### • DeFi protocols, Tokens and NFT market 
+#### • Layer 2 and scalability soluMons
+#### • Designing & Coding Smart Contracts 
+#### • DApp design, development & tesMng 
+#### • R&D, DAOs & Hackathons enthusiast
 
 
 
