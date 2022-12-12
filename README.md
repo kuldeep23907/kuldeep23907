@@ -1,3 +1,5 @@
+# Introduction
+
 ### Hi there 👋
 
 I am [Kuldeep](https://www.linkedin.com/in/kuldeep-k-srivastava-b27806138/), a blockchain developer and full stack software developer from [🇮🇳](https://en.wikipedia.org/wiki/India).
@@ -6,7 +8,7 @@ I am [Kuldeep](https://www.linkedin.com/in/kuldeep-k-srivastava-b27806138/), a b
 
 I have 3+ years of experience in blockchain development & full stack software development. An adaptable professional who explores various blockchain platforms, architect smart contract systems, loves coding & reviewing smart contracts and enjoys problem-solving. 
 
-### Professional Skills and Interests:
+## Professional Skills and Interests:
   • Experience with EVM & non-EVM chains
   • DeFi protocols, Tokens and NFT market 
   • Layer 2 and scalability solutions
@@ -14,21 +16,23 @@ I have 3+ years of experience in blockchain development & full stack software de
   • DApp design, development & testing 
   • R&D, DAOs & Hackathons enthusiast
 
-### Blockchain Work Experiences
+# Work Experiences
 
-#### Security Research Fellow @yAcademy (Nov 2022 - Dec 2022)
+## Blockchain Work Experiences
+
+### Security Research Fellow @yAcademy (Nov 2022 - Dec 2022)
 * Skills: Solidity, Smart Contracts, Auditing
-#### ConsenSys - Blockchain/Solidity Developer (Jan 2022 - Nov 2022)
+### ConsenSys - Blockchain/Solidity Developer (Jan 2022 - Nov 2022)
 * Skills: Solidity, Smart Contract Development, Testing, Fuzzing, Deployment, DeFi, NFTs
-#### Multiplier Finance - Blockchain Developer (Feb 2021 - December 2021)
+### Multiplier Finance - Blockchain Developer (Feb 2021 - December 2021)
 * Skills: Solidity, Smart Contract Development, Testing, DeFi, Auditing
-#### ConsenSys Academy - Blockchain Developer Trainee (Sept 2020 - December 2020)
+### ConsenSys Academy - Blockchain Developer Trainee (Sept 2020 - December 2020)
 * Skills: Ethereum, Solidity, Dapps development
-#### Emurgo Academy - Full-stack Blockchain Developer Trainee (Nov 2019 - August 2020)
+### Emurgo Academy - Full-stack Blockchain Developer Trainee (Nov 2019 - August 2020)
 * Skills: Blockchain basics, Ethereum, Dapps, Hyperledger Fabric, Cardano
 
-### Full-Stack Work Experience
-#### Geekyants - Software Engineer (July 2019 - Feb 2021)
+## Full-Stack Work Experience
+### Geekyants - Software Engineer (July 2019 - Feb 2021)
 * Skills: JavaScript, React, React Native, Node.js, PHP, AWS, MERN stack
 
 
@@ -116,7 +120,7 @@ I am currently employed as Blockchain Developer and keep working on awesome proj
 ### Frontend & Backend Skills -->
 
 
-### 📫 How to reach me? 
+# 📫 How to reach me? 
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/kuldeep-k-srivastava-b27806138/) 👨🏻‍💻 <br>
   ⦿ Email me [Kuldeep K Srivastava](mailto:kuldeepksrivastava1@gmail.com) <br>
