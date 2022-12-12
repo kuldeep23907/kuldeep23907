@@ -4,7 +4,7 @@
 
 I am [Kuldeep](https://www.linkedin.com/in/kuldeep-k-srivastava-b27806138/), a blockchain developer with interests in smart contract security from [🇮🇳](https://en.wikipedia.org/wiki/India).
 
-<!-- ![Kuldeeps's github stats](https://github-readme-stats.vercel.app/api?username=kuldeep23907&hide=issues&show_icons=true&theme=onedark) -->
+![Kuldeeps's github stats](https://github-readme-stats.vercel.app/api?username=kuldeep23907&hide=prs&show_icons=true&theme=onedark)
 
 I have **3+ years** of experience in blockchain development & full stack software development. An adaptable professional who explores various blockchain platforms, architect smart contract systems, loves coding & reviewing smart contracts and enjoys problem-solving. 
 
