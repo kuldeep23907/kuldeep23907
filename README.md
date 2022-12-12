@@ -14,21 +14,21 @@ I have 3+ years of experience in blockchain development & full stack software de
   • DApp design, development & testing 
   • R&D, DAOs & Hackathons enthusiast
 
-### Blockchain Work Experience
+### Blockchain Work Experiences
 
 #### Security Research Fellow @yAcademy (Nov 2022 - Dec 2022)
 * Skills: Solidity, Smart Contracts, Auditing
 #### ConsenSys - Blockchain/Solidity Developer (Jan 2022 - Nov 2022)
-* Skills: Solidity, Smart Contract Development, Testing, Fuzzing, JavaScript
+* Skills: Solidity, Smart Contract Development, Testing, Fuzzing, Deployment, DeFi, NFTs
 #### Multiplier Finance - Blockchain Developer (Feb 2021 - December 2021)
-* Skills: Solidity, Smart Contract Development, Testing, Fuzzing
+* Skills: Solidity, Smart Contract Development, Testing, DeFi, Auditing
 #### ConsenSys Academy - Blockchain Developer Trainee (Sept 2020 - December 2020)
 * Skills: Ethereum, Solidity, Dapps development
 #### Emurgo Academy - Full-stack Blockchain Developer Trainee (Nov 2019 - August 2020)
 * Skills: Blockchain basics, Ethereum, Dapps, Hyperledger Fabric, Cardano
 
 ### Full-Stack Work Experience
-#### Geekyants - Software Engineer (July 2019 - Feb 2022)
+#### Geekyants - Software Engineer (July 2019 - Feb 2021)
 * Skills: JavaScript, React, React Native, Node.js, PHP, AWS, MERN stack
 
 
