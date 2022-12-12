@@ -18,7 +18,7 @@ I have 3+ years of experience in blockchain development & full stack software de
 
 # Work Experience
 
-## Blockchain Work Experience
+## Blockchain Experience
 
 ### [ConsenSys](https://github.com/ConsenSys) - Blockchain/Solidity Developer (Jan 2022 - Nov 2022)
 * Skills: Solidity, Smart Contract Development, Testing, Fuzzing, Deployment, DeFi, NFTs
@@ -29,7 +29,7 @@ I have 3+ years of experience in blockchain development & full stack software de
 ### [Emurgo Academy](https://education.emurgo.io/) - Full-stack Blockchain Developer Trainee (Nov 2019 - August 2020)
 * Skills: Blockchain basics, Ethereum, Dapps, Hyperledger Fabric, Cardano
 
-## Full-Stack Work Experience
+## Full-Stack Experience
 ### [Geekyants](https://www.geekyants.com/) - Software Engineer (July 2019 - Feb 2021)
 * Skills: JavaScript, React, React Native, Node.js, PHP, AWS, MERN stack
 
@@ -44,9 +44,14 @@ I have 3+ years of experience in blockchain development & full stack software de
 * [Chainlink Virtual Hackathon 2020(won Tezos Defi Runner Up award)](https://devpost.com/software/bifrost-baking-token)
 * and many more...
 
+# Smart Contract Security
+
+* Got selected for Security Research Fellowship program by [yAcademy](https://twitter.com/yAcademyDAO).Have a look at the repo [block IV](https://github.com/Yacademy-block-4) 
+* Completed CTF wargame Ethernaut for enhancing smart contract security skills (https://ethernaut.openzeppelin.com/)
+* Completed first 6 slots of [secureum epoch 0 material](https://github.com/x676f64/secureum-mind_map)
+
 # Achievements
 
-* Got selected under Security Research Fellowship program by [yAcademy](https://twitter.com/yAcademyDAO) block IV
 * Awarded with 12000 USDC as Certora Scholarship for being Top 9 in [Secureum X Certora Prover (formal verification) workshop](https://discord.com/channels/814328279468474419/927065287172427798/963042285363290112)
 * Ranked 16th out of 32 participants and shared 20000$ pool prize in [Secureum X Sherlock CTF](https://discord.com/channels/814328279468474419/927065287172427798/948437423732437002)
 * Completed a week workshop from Trail of bits team on Echidna (fuzzing) tool organised by [Secureum X ToB](https://discord.com/channels/814328279468474419/927065287172427798/975221344885145620)
