@@ -1,8 +1,20 @@
 ### Hi there 👋
 
-I am [Kuldeep](https://www.linkedin.com/in/kuldeep-k-srivastava-b27806138/), a blockchain developer and full stack software developer from [🇮🇳](https://en.wikipedia.org/wiki/India)&nbsp; with love for problem-solving. 🎯 
+I am [Kuldeep](https://www.linkedin.com/in/kuldeep-k-srivastava-b27806138/), a blockchain developer and full stack software developer from [🇮🇳](https://en.wikipedia.org/wiki/India).
 
-![Kuldeeps's github stats](https://github-readme-stats.vercel.app/api?username=kuldeep23907&hide=issues&show_icons=true&theme=onedark)
+<!-- ![Kuldeeps's github stats](https://github-readme-stats.vercel.app/api?username=kuldeep23907&hide=issues&show_icons=true&theme=onedark) -->
+
+I have 3+ years of experience in blockchain development & full stack soYware development. An adaptable professional who explores various blockchain platforms, architect smart contract systems, loves coding & reviewing smart contracts and enjoys problem-solving. 
+Professional Skills and Interests:
+
+• Experience with EVM & non-EVM chains 
+• DeFi protocols, Tokens and NFT market 
+• Layer 2 and scalability soluMons
+• Designing & Coding Smart Contracts 
+• DApp design, development & tesMng 
+• R&D, DAOs & Hackathons enthusiast
+
+
 
 <!-- I mostly work on BUIDLING Dapps on blockchain platforms such as **Ethereum, Binance Smart Chain, Polygon**. I have worked on coding Smart Contracts, leveraging Oracles (**chainlink**), deploying & upgrading contracts(**truffle, hardhart**), security libraries(**openzeppelin**) and designing user interface using React with **web3.js/ethers**. I also write unit testing using **mocha(javascript) & solidity**, do security analysis and perform dynamic testing using **MythX**.
 
