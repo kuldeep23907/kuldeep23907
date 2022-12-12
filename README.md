@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am [Kuldeep](https://www.linkedin.com/in/kuldeep-k-srivastava-b27806138/), a blockchain developer and full stack software developer from [🇮🇳](https://en.wikipedia.org/wiki/India).
+I am [Kuldeep](https://www.linkedin.com/in/kuldeep-k-srivastava-b27806138/), a blockchain developer with interests in smart contract security from [🇮🇳](https://en.wikipedia.org/wiki/India).
 
 <!-- ![Kuldeeps's github stats](https://github-readme-stats.vercel.app/api?username=kuldeep23907&hide=issues&show_icons=true&theme=onedark) -->
 
@@ -33,6 +33,17 @@ I have 3+ years of experience in blockchain development & full stack software de
 ### [Geekyants](https://www.geekyants.com/) - Software Engineer (July 2019 - Feb 2021)
 * Skills: JavaScript, React, React Native, Node.js, PHP, AWS, MERN stack
 
+## Hackathons Experience
+* ConsenSys Internal Cypherpunk 2022 Hackathon (won Out-of-the-Box category award)
+* [ETHGlobal HackFS S2021 (Finalist & Protocol Labs Grand Prize winnner, Sponsors award)](https://showcase.ethglobal.co/hackfs2021/cryptoshooters)
+* [ETHGlobal Scaling Ethereum S2021 (won Arbitrum award)](https://showcase.ethglobal.co/scaling/farmtopia)
+* [ETHGlobal HackMoney S2021 (won sponsors award)](https://showcase.ethglobal.co/hackmoney2021/fun-dpool)
+* [ETHGlobal Web3 Weekend S2021 (won sponsors award)](https://showcase.ethglobal.co/web3weekend/one-momint)
+* [ETHonline 2020 (won OpenGSN Most meaningful project award)](https://hack.ethglobal.co/showcase/machu-picchu-recM0wStoyOcitI1A)
+* [Devfolio InOut 7.0 (won MATIC price-prediction market award)](https://devfolio.co/projects/price-prediction-market)
+* [Chainlink Virtual Hackathon 2020(won Tezos Defi Runner Up award)](https://devpost.com/software/bifrost-baking-token)
+* and many more...
+
 # Achievements
 
 * Got selected under Security Research Fellowship program by [yAcademy](https://twitter.com/yAcademyDAO) block IV
@@ -47,7 +58,7 @@ I have 3+ years of experience in blockchain development & full stack software de
 
 <!-- I mostly work on BUIDLING Dapps on blockchain platforms such as **Ethereum, Binance Smart Chain, Polygon**. I have worked on coding Smart Contracts, leveraging Oracles (**chainlink**), deploying & upgrading contracts(**truffle, hardhart**), security libraries(**openzeppelin**) and designing user interface using React with **web3.js/ethers**. I also write unit testing using **mocha(javascript) & solidity**, do security analysis and perform dynamic testing using **MythX**.
 
-I keep participating & won prize in hackathons such as **[ETHGlobal HackFS S2021 (Finalist & Protocol Labs Grand Prize winnner, Sponsors award)](https://showcase.ethglobal.co/hackfs2021/cryptoshooters), [ETHGlobal Scaling Ethereum S2021 (won Arbitrum award)](https://showcase.ethglobal.co/scaling/farmtopia),  [ETHGlobal HackMoney S2021 (won sponsors award)](https://showcase.ethglobal.co/hackmoney2021/fun-dpool), [ETHGlobal Web3 Weekend S2021 (won sponsors award)](https://showcase.ethglobal.co/web3weekend/one-momint), [ETHonline 2020 (won OpenGSN Most meaningful project award)](https://hack.ethglobal.co/showcase/machu-picchu-recM0wStoyOcitI1A), [Chainlink Virtual Hackathon 2020(won Tezos Defi Runner Up award)](https://devpost.com/software/bifrost-baking-token), P&G Sponsored hackathon( Finalist here)** and several others. The purpose has been to explore something new in the domain and implement what i know to enhance my blockchain experience. 
+I keep participating & won prize in hackathons such as **, ,  , , , , P&G Sponsored hackathon( Finalist here)** and several others. The purpose has been to explore something new in the domain and implement what i know to enhance my blockchain experience. 
 
 I am currently employed as Blockchain Developer and keep working on awesome projects to make ideas into reality. I have worked on back-end, front-end as well as cloud services AWS in these projects.
  -->
