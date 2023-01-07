@@ -30,7 +30,7 @@ I have **3+ years** of experience in blockchain development & full stack softwar
 * Skills: Blockchain basics, Ethereum, Dapps, Hyperledger Fabric, Cardano
 
 ## Smart Contract Security Experience
-* Got selected for **Security Research Fellowship program** by [yAcademy](https://twitter.com/yAcademyDAO). Have a look at the repo [block IV](https://github.com/Yacademy-block-4) 
+* Completed **Security Research Fellowship program** by [yAcademy](https://twitter.com/yAcademyDAO). Have a look at the repo [block IV](https://github.com/Yacademy-block-4) 
 * Completed **CTF wargame Ethernaut** for enhancing smart contract security skills (https://ethernaut.openzeppelin.com/)
 * Completed [**Damn Vulnerable Defi**](https://github.com/kuldeep23907/Damn-Vulnerable-Defi-Solutions) for enhancing DeFi security skills (https://www.damnvulnerabledefi.xyz/index.html)
 * Completed first 6 slots **(Ethereum 101, Solidity 101, Solidity 201, Security Pitfalls & Best Practices 101 & 201, Auditing tools & techniques 101)** of [Secureum epoch 0 material](https://github.com/x676f64/secureum-mind_map)
