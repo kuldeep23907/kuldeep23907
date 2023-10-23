@@ -9,17 +9,20 @@ I am [Kuldeep](https://www.linkedin.com/in/kuldeep-k-srivastava-b27806138/), a b
 I have **3+ years** of experience in blockchain development & full stack software development. An adaptable professional who explores various blockchain platforms, architect smart contract systems, loves coding & reviewing smart contracts and enjoys problem-solving. 
 
 ## Professional Skills and Interests:
-* Experience with EVM & non-EVM chains
-* DeFi protocols, Tokens and NFT market 
-* Layer 2 and scalability solutions
 * Designing & Coding Smart Contracts 
-* DApp design, development & testing 
+* Auditing Smart Contracts
+* DeFi protocols, Tokens and NFT market 
+* Experience with EVM & non-EVM chains
+* Layer 2 and scalability solutions
 * R&D, DAOs & Hackathons enthusiast
 
 # Work Experience
 
 ## Blockchain Experience
-
+### [Zokyo](https://www.zokyo.io/) - Blockchain Security Researcher  (April 2022 - Present)
+* Skills: Solidity, Smart Contract Auditing, Defi protocols, Audit reports
+### [yAcademy](https://twitter.com/yAcademyDAO) - Security Researcher Fellowship (Nov 2022 - Dec 2022)
+* Skills: Solidity, Smart Contract Auditing, Defi protocols, Audit reports, CTFs
 ### [ConsenSys](https://github.com/ConsenSys) - Blockchain/Solidity Developer (Jan 2022 - Nov 2022)
 * Skills: Solidity, Smart Contract Development, Testing, Fuzzing, Deployment, DeFi, NFTs
 ### [Multiplier Finance](https://twitter.com/MultiplierMXX) - Blockchain Developer (Feb 2021 - December 2021)
