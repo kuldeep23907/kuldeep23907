@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am [Kuldeep](https://www.linkedin.com/in/kuldeep-k-srivastava-b27806138/), a blockchain security researched and blockchain developer with interests in smart contract security from [🇮🇳](https://en.wikipedia.org/wiki/India).
+I am [Kuldeep](https://www.linkedin.com/in/kuldeep-k-srivastava-b27806138/), a blockchain security researcher and blockchain developer with interests in smart contract security from [🇮🇳](https://en.wikipedia.org/wiki/India).
 
 <!-- ![Kuldeeps's github stats](https://github-readme-stats.vercel.app/api?username=kuldeep23907&hide=prs&show_icons=true&theme=onedark) -->
 
