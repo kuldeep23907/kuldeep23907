@@ -2,11 +2,11 @@
 
 ### Hi there 👋
 
-I am [Kuldeep](https://www.linkedin.com/in/kuldeep-k-srivastava-b27806138/), a blockchain developer with interests in smart contract security from [🇮🇳](https://en.wikipedia.org/wiki/India).
+I am [Kuldeep](https://www.linkedin.com/in/kuldeep-k-srivastava-b27806138/), a blockchain security researched and blockchain developer with interests in smart contract security from [🇮🇳](https://en.wikipedia.org/wiki/India).
 
 <!-- ![Kuldeeps's github stats](https://github-readme-stats.vercel.app/api?username=kuldeep23907&hide=prs&show_icons=true&theme=onedark) -->
 
-I have **3+ years** of experience in blockchain development & full stack software development. An adaptable professional who explores various blockchain platforms, architect smart contract systems, loves coding & reviewing smart contracts and enjoys problem-solving. 
+I have **6+ years** of experience in blockchain security research(2+ years), blockchain development(4+ years) & full stack software development(1.5 years). An adaptable professional who explores various blockchain platforms, architect smart contract systems, loves coding & reviewing smart contracts and enjoys problem-solving. 
 
 ## Professional Skills and Interests:
 * Designing & Coding Smart Contracts 
@@ -19,7 +19,7 @@ I have **3+ years** of experience in blockchain development & full stack softwar
 # Work Experience
 
 ## Blockchain Experience
-### [Zokyo](https://www.zokyo.io/) - Blockchain Security Researcher  (April 2022 - Present)
+### [Zokyo](https://www.zokyo.io/) - Blockchain Security Researcher  (April 2023 - Present)
 * Skills: Solidity, Smart Contract Auditing, Defi protocols, Audit reports
 ### [yAcademy](https://twitter.com/yAcademyDAO) - Security Researcher Fellowship (Nov 2022 - Dec 2022)
 * Skills: Solidity, Smart Contract Auditing, Defi protocols, Audit reports, CTFs
